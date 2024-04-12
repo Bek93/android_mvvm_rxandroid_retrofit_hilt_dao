@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_mvvm_rxandroid_retrofit_hilt_dao</string>
+    <string name="onboarding_email">Email</string>
+    <string name="onboarding_password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="login_btn_title">Login</string>
+</resources>
